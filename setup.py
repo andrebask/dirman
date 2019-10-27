@@ -5,13 +5,12 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 # specify requirements of your package here 
-REQUIREMENTS = ['requests'] 
+REQUIREMENTS = [] 
 
 # some more details 
 CLASSIFIERS = [ 
 	'Development Status :: 4 - Beta', 
 	'Intended Audience :: Developers', 
-	'Topic :: Filesystem', 
 	'License :: OSI Approved :: MIT License', 
 	'Programming Language :: Python', 
 	'Programming Language :: Python :: 2', 
@@ -25,7 +24,7 @@ CLASSIFIERS = [
 
 # calling the setup function 
 setup(name='dirman', 
-	version='1.0.0', 
+	version='1.0.1', 
 	description='extract dir given its root path', 
     long_description_content_type="text/markdown",
 	long_description=long_description, 

@@ -1,0 +1,6 @@
+README.md
+setup.py
+dirman.egg-info/PKG-INFO
+dirman.egg-info/SOURCES.txt
+dirman.egg-info/dependency_links.txt
+dirman.egg-info/top_level.txt

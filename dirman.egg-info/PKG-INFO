@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: dirman
+Version: 1.0.1
+Summary: extract dir given its root path
+Home-page: https://github.com/sonusharma07/dirman
+Author: sonu sharma
+Author-email: meetsonusharma07@gmail.com
+License: MIT
+Description: # dirman
+        
+Keywords: os path dir
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Description-Content-Type: text/markdown
